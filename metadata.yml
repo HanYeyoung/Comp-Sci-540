@@ -1,0 +1,12 @@
+---
+:id: 196336262
+:submitters:
+- :name: Adelia Han
+  :email: han293@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-09-25 05:06:45.530615000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-09-24 22:06:45.530615000 Z
+:status: processed
+:score: 100.0
